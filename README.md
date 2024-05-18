@@ -1,0 +1,4 @@
+<h1> PIG GAME</h1>
+<p>This game is called pig. The way this game works is, first computer asks how many player's want to play? (for now max is four, in future it can be increased). Depending upon user's input computer validates the input. After successful validation of input computer starts with player 1's turn. Player has two options.<br>Would you like to roll [y/n]?. If 'y' then computer rolls dice and generates random number between one and six(inclusive) and adds to player's current score. If 'n' then computer turns to next player's turn. Whoever first scores max score wins.
+</p>
+Author : Ritesh Yadav
